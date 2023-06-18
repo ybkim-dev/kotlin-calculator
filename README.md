@@ -9,8 +9,8 @@ Kotlin 연습 레포 (계산기 구현)
 - 계산 기록 저장 및 조회
 
 ## 결과
-<img width="132" height="200" alt="스크린샷 2023-06-18 오후 8 55 14" src="https://github.com/ybkim-dev/kotlin-calculator/assets/80630604/24dff812-9c72-4c5f-95bf-1034aa98f59b">
-<img width="700" height="200 alt="스크린샷 2023-06-18 오후 8 55 36" src="https://github.com/ybkim-dev/kotlin-calculator/assets/80630604/45191b78-1600-49c3-b9b0-9b278e3ec1ca">
+<img width="149" height="200" alt="스크린샷 2023-06-18 오후 11 15 29" src="https://github.com/ybkim-dev/kotlin-calculator/assets/80630604/003f8796-8df0-49bd-a201-8d920390a98b">
+<img width="634" height="200" alt="스크린샷 2023-06-18 오후 11 16 06" src="https://github.com/ybkim-dev/kotlin-calculator/assets/80630604/e68388a3-a6f8-4cf0-b070-fefa83f5f59f">
 
 ## 다음 단계
 - Kotlin 문서 참고하여 코드 다듬기
